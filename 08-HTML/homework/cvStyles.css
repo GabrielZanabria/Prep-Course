@@ -1,0 +1,34 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+.divFirst{
+    height: 80px;
+    width: 600px;
+    border:1px solid black;
+    padding: 5px;
+}
+.divSecond{
+    height: 90px;
+    width: 600px;
+    border:1px solid black;
+    padding: 5px;
+}
+.divThird{
+    height: 90px;
+    width: 600px;
+    border:1px solid black;
+    padding: 5px;
+}
+.divFourth{
+    height: 90px;
+    width: 600px;
+    border:1px solid black;
+    padding: 5px;
+}
+.divFifth{
+    height: 90px;
+    width: 600px;
+    border:1px solid black;
+    padding: 5px;
+}
